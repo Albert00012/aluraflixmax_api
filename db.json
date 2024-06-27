@@ -95,6 +95,14 @@
         "descripcion": "¿Estás empezando tus estudios de Programación? ¿Te interesa todo lo que es la creación de Páginas Web Desarrollo de Softwares? ¿O estás pensando en cambiar de carrera y entrar a la maravillosa area de tecnología?",
         "linkImagenVideo": "https://res.cloudinary.com/dkj7iqhfy/image/upload/v1685821856/q58g3swdjnxv30u3jkux.png",
         "id": 16
+    },
+    {
+        "titulo": "Nissan GTR with 200hp",
+        "linkVideo": "https://www.youtube.com/watch?v=bS50VidORr4",
+        "Categoria": "Autos",
+        "descripcion": "\n2000HP Nissan GT-R R35 - Accelerations, Rolling Launch & Flames !",
+        "linkImagenVideo": "https://editorial.pxcrush.net/carsales/general/editorial/nissan_gt-r_rear-7pkx.jpg?width=1024&height=682",
+        "id": 13
     }
     
 ]
